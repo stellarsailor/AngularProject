@@ -5,7 +5,7 @@
 * distributed to other students.
 *
 * Name: Minsu Lee Student ID: 113131197 Date: 12/10/20
-*
+* Online Link: https://web433a6.herokuapp.com/
 ********************************************************************************/
 
 import { Component, OnInit } from '@angular/core';
